@@ -1,0 +1,16 @@
+{
+  "name": "bonus",
+  "version": "1.0.0",
+  "description": "para ejecutar el programa se debe usar el comando:\r node principal.js",
+  "main": "principal.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andres Espinosao",
+  "license": "ISC"
+}
